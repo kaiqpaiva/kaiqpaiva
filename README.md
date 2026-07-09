@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Sou Kaique Paiva<br><br>🎓 Computer Science | Universidade Presbiteriana Mackenzie<br><br>💡 Interesse em Inteligência Artificial e Backend<br><br>🔬 Iniciação Científica em Information Retrieval | IAM (Centro Mackenzie de Inteligência Artificia)<br><br>🛠️ Python · Java · C · SQL · PostgreSQL · Git
+👋 Olá! Sou Kaique Paiva<br><br>🎓 Ciência da Computação | Universidade Presbiteriana Mackenzie<br><br>💡 Interesse em Inteligência Artificial e Backend<br><br>🔬 Iniciação Científica em Information Retrieval | IAM (Centro Mackenzie de Inteligência Artificia)<br><br>🛠️ Python · Java · C · SQL · PostgreSQL · Git
 
 
 ## 🌐 Socials:
@@ -12,7 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=kaiqpaiva&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaiqpaiva&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=kaiqpaiva&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
