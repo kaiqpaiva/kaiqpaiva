@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Sou Kaique Paiva<br><br>🎓 Ciência da Computação | Universidade Presbiteriana Mackenzie<br><br>💡 Interesse em Inteligência Artificial e Backend<br><br>🔬 Iniciação Científica em Information Retrieval | IAM (Centro Mackenzie de Inteligência Artificia)<br><br>🛠️ Python · Java · C · SQL · PostgreSQL · Git
+🎓 Ciência da Computação | Universidade Presbiteriana Mackenzie<br><br>💡 Interesse em Inteligência Artificial e Backend<br><br>🔬 Iniciação Científica em Information Retrieval | IAM (Centro Mackenzie de Inteligência Artificia)<br><br>🛠️ Python · Java · C · SQL · PostgreSQL · Git
 
 
 ## 🌐 Socials:
