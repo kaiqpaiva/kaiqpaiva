@@ -1,5 +1,3 @@
-# Kaique Paiva
-
 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, com interesse em backend, dados e IA. Atualmente em Iniciação Científica na área de Information Retrieval, no IAM (Centro Mackenzie de Inteligência Artificial).
 
 ## Projetos
