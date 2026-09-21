@@ -1,16 +1,20 @@
-# 💫 About Me:
-🎓 Ciência da Computação | Universidade Presbiteriana Mackenzie<br><br>💡 Interesse em Inteligência Artificial e Backend<br><br>🔬 Iniciação Científica em Information Retrieval | IAM (Centro Mackenzie de Inteligência Artificial)<br><br>🛠️ Python · Java · C · SQL · PostgreSQL · Git
+# Kaique Paiva
 
+Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, com interesse em backend, dados e IA. Atualmente em Iniciação Científica na área de Information Retrieval, no IAM (Centro Mackenzie de Inteligência Artificial).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kaiqpaiva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaique.paiva681@gmail.com) 
+## Projetos
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kaiqpaiva&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kaiqpaiva&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaiqpaiva&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**[doc-ranker](https://github.com/kaiqpaiva/doc-ranker)**
+Ranqueamento semântico de documentos usando embeddings do modelo multilingual-e5-base e similaridade de cosseno. Testado com o dataset mMARCO, com queries em português, inglês e chinês.
 
+**[O Gabinete](https://github.com/hissapinto/o-gabinete)**
+Projeto em grupo que constrói um grafo de similaridade de comportamento de voto entre deputados federais, a partir de dados abertos da Câmara dos Deputados.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+
+Python · Java · C · SQL · PostgreSQL · Git
+
+## Contato
+
+Email: kaique.paiva681@gmail.com
+LinkedIn: linkedin.com/in/kaiqpaiva
